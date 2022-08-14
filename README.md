@@ -7,6 +7,8 @@
 - I’m currently learning Game Dev / Cyber Secuirty
 - 🥋 Fun fact: I'm a green Tag Belt in Taekwondo 🥋
 
-## 📝 Eductaion:
+## 📝 Education:
 
 -BSc Computer Science @ The University Of Birminghham
+
+## Social Media:
