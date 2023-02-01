@@ -9,7 +9,7 @@
 
 ## 📝 Education:
 
--MSc Cyber Security @ The University Of Birmingham
--BSc Computer Science @ The University Of Birminghham
+- MSc Cyber Security @ The University Of Birmingham
+- BSc Computer Science @ The University Of Birminghham
 
 ## Social Media:
