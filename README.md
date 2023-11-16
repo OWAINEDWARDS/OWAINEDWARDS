@@ -5,7 +5,7 @@
 - Pronouns: He/Him
 - From: Wales 󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿
 - I’m currently learning Game Dev / Cyber Secuirty
-- 🥋 Fun fact: I'm a blue tag Belt in Taekwondo 🥋
+- 🥋 Fun fact: I'm 5th Kup Colour belt in Taekwondo 🥋
 
 ## 📝 Education:
 
